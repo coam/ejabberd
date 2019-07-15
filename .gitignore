@@ -44,3 +44,4 @@ XmppAddr.hrl
 /rel/ejabberd
 /_build
 /mnesiadb
+/.idea/
